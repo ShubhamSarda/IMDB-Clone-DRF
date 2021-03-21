@@ -1,6 +1,6 @@
 # IMDB API Clone With DRF
 
-<h3>👉 Reference Reading Links - Arranged According To Lectures</h3>
+<h3>📝 Reference Reading Links (Arranged According To Lectures)</h3>
 <br>
 
 <b>🎥 Understanding REST API</b>
